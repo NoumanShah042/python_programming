@@ -1,5 +1,4 @@
-.idea/
-PythonProjects/
-venv/
-CodeWithHarry
-CodeWithHarry/
+.idea
+PythonProjects
+venv
+CodeWithHarry 
