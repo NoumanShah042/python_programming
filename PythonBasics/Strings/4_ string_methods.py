@@ -7,6 +7,9 @@ print(name.find('n', 1, 10))  # (substring, start_index , end_index )
 print(name.capitalize())
 print(name.upper())
 print(name.lower())
+print( name.strip())  # like trim , returns a new string after removing any leading and trailing whitespaces including tabs (\t).
+print(name.rstrip())  # line rtrim
+print(name.ltrip())  # like l trim
 print(name.isdigit())
 print(name.isalpha())  # only alphabets without special char
 print(name.count("o"))

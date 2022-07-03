@@ -37,7 +37,7 @@ Value   Meaning
 
 """
 
-f = open("C:\\Users\\Syed Numan Rehman\\Desktop\\test.txt")
+f = open("test.txt")
 f.seek(0)
 
 print(f.tell())

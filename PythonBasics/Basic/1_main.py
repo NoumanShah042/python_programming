@@ -9,6 +9,7 @@ print("Hello " + full_name)  # combine all pieces without space
 print("Hello", ":", full_name)  # combine all pieces with a  space
 
 # print(type(first_name))
+p
 
 # *****************************************************
 # int = a whole integer

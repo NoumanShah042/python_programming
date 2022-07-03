@@ -3,6 +3,7 @@ grocery = ["Harpic", "vim bar", "deodrant", "Bhindi",
 # print(grocery[5])
 
 numbers = [2, 7, 9, 11, 3]
+print(numbers[0])
 # print(max(numbers))
 # print(min(numbers))
 # print(len(numbers))

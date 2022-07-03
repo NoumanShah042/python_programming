@@ -1,11 +1,11 @@
-f = open("C:\\Users\\Syed Numan Rehman\\Desktop\\test.txt", "rt")
+f = open("C:\\Users\\Nouman\\Desktop\\test.txt", "rt")
 #                                           open wil return file handler or file pointer
 
 # ***************************
-# content = f.read()         #  read complete file and store as string
+content = f.read()         #  read complete file and store as string
 
 # content = f.read(34455)    #  read  34455 characters as string
-content = f.read(3)          # read  3 characters
+# content = f.read(3)          # read  3 characters
 
 # print(type(content))      # <class 'str'>
 # print(type(f))            # <class '_io.TextIOWrapper'>
